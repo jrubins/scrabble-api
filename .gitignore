@@ -1,0 +1,22 @@
+# Builds
+build
+dist
+lambda
+
+# Caches
+.babel-cache
+.eslintcache
+.jest-cache
+.tsbuildinfo
+
+# Computer specific files
+.DS_Store
+.env
+.idea
+
+# Dependencies
+node_modules
+
+# Logs
+yarn-error.log
+npm-debug.log
